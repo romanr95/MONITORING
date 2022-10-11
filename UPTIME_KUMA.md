@@ -1,6 +1,6 @@
 # Simple monitoring and Telegram alerts with Uptime Kuma 
 ## installation 
-### Packages
+### Updating repositories
 ```bash
 sudo apt update && sudo apt upgrade -y
 ```
