@@ -43,26 +43,26 @@ http://Your_Server_IP:3001
 ## Install monitoring 
 At the beginning add a new monitor 
 
-<img src="https://github.com/Kolot86/My-guides/blob/main/Pictures/uptimekuma_1%20(1).png" width="400" alt="" />
+<img src="https://github.com/romanr95/MONITORING/blob/main/uptimekuma_1%20(1).png" width="400" alt="" />
 
 Monitor type, select "TCP port"
 
-<img src="https://github.com/Kolot86/My-guides/blob/main/Pictures/uptimekuma_1%20(2).png" width="400" alt="" />
+<img src="https://github.com/romanr95/MONITORING/blob/main/uptimekuma_1%20(2).png" width="400" alt="" />
 
 As “Hostname” write IP address of your server and as a “Port”, port to which your node listens. Standard is 26656
 
-<img src="https://github.com/Kolot86/My-guides/blob/main/Pictures/uptimekuma_1%20(6).png" width="400" alt="" />
+<img src="https://github.com/romanr95/MONITORING/blob/main/uptimekuma_1%20(6).png" width="400" alt="" />
 
 If everything do well it should resemble this: 
 
-<img src="https://github.com/Kolot86/My-guides/blob/main/Pictures/uptimekuma_1%20(3).png" width="400" alt="" />
+<img src="https://github.com/romanr95/MONITORING/blob/main/uptimekuma_1%20(3).png" width="400" alt="" />
 
 ## Install telegram alerts 
 
 
 Go to “settings” and choose “notification” 
 
-<img src="https://github.com/Kolot86/My-guides/blob/main/Pictures/uptimekuma_1%20(4).png" width="400" alt="" />
+<img src="https://github.com/romanr95/MONITORING/blob/main/uptimekuma_1%20(4).png" width="400" alt="" />
 
 select “Setup Notification” After you need to get a Bot token and Chat ID(or your user ID) Follow instructions under to do so:
 
@@ -74,7 +74,7 @@ select “Setup Notification” After you need to get a Bot token and Chat ID(or
 
 Write over your Chat ID and Bot token and don’t forget to switch on “Apply on all existing monitors” 
 
-<img src="https://github.com/Kolot86/My-guides/blob/main/Pictures/uptimekuma_1%20(5).png" width="400" alt="" />
+<img src="https://github.com/romanr95/MONITORING/blob/main/uptimekuma_1%20(5).png" width="400" alt="" />
 
 After it’s finished, your bot should inform you if your nod is down.
 Good luck! 
